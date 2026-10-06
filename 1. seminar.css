@@ -1,0 +1,22 @@
+#uvitani
+{
+background-color: hotpink;
+margin: auto;
+width: 30%;
+text-align: center;
+}
+
+img{
+    max-width: 100%;
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#jmeno{
+    color: darkred;
+}
+#tlacitka{
+    border: 3px solid red;
+    width: 60%;
+    margin: auto;
+}
